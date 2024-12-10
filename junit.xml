@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="23" failures="0" errors="0" time="14.75">
+  <testsuite name="IndustrySolutions Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="9.843" tests="2">
+    <testcase classname="IndustrySolutions Component renders component correctly" name="IndustrySolutions Component renders component correctly" time="0.148">
+    </testcase>
+    <testcase classname="IndustrySolutions Component translation function is called with correct keys" name="IndustrySolutions Component translation function is called with correct keys" time="0.029">
+    </testcase>
+  </testsuite>
+  <testsuite name="GlobalPresence Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.019" tests="1">
+    <testcase classname="GlobalPresence Component renders the GlobalPresence with the correct text" name="GlobalPresence Component renders the GlobalPresence with the correct text" time="0.127">
+    </testcase>
+  </testsuite>
+  <testsuite name="ServicesSection" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.067" tests="1">
+    <testcase classname="ServicesSection should render data without crashing" name="ServicesSection should render data without crashing" time="0.155">
+    </testcase>
+  </testsuite>
+  <testsuite name="HeroSection Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.043" tests="1">
+    <testcase classname="HeroSection Component renders the HeroSection with the correct text" name="HeroSection Component renders the HeroSection with the correct text" time="0.138">
+    </testcase>
+  </testsuite>
+  <testsuite name="NavigationButton Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.066" tests="2">
+    <testcase classname="NavigationButton Component should render the button with the correct label" name="NavigationButton Component should render the button with the correct label" time="0.064">
+    </testcase>
+    <testcase classname="NavigationButton Component should have the correct href attribute" name="NavigationButton Component should have the correct href attribute" time="0.01">
+    </testcase>
+  </testsuite>
+  <testsuite name="Navbar Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.068" tests="2">
+    <testcase classname="Navbar Component should render VCTORS and navigation buttons" name="Navbar Component should render VCTORS and navigation buttons" time="0.112">
+    </testcase>
+    <testcase classname="Navbar Component should have the correct href attributes for navigation buttons" name="Navbar Component should have the correct href attributes for navigation buttons" time="0.129">
+    </testcase>
+  </testsuite>
+  <testsuite name="Button Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.118" tests="2">
+    <testcase classname="Button Component renders the Buttons with the correct text" name="Button Component renders the Buttons with the correct text" time="0.067">
+    </testcase>
+    <testcase classname="Button Component calls onClick when clicked" name="Button Component calls onClick when clicked" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="StatisticsSection Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.204" tests="4">
+    <testcase classname="StatisticsSection Component should render the statistics data correctly" name="StatisticsSection Component should render the statistics data correctly" time="0.137">
+    </testcase>
+    <testcase classname="StatisticsSection Component should render the &quot;Let&apos;s Talk&quot; button" name="StatisticsSection Component should render the &quot;Let&apos;s Talk&quot; button" time="0.014">
+    </testcase>
+    <testcase classname="StatisticsSection Component should conditionally render statsLine only between items" name="StatisticsSection Component should conditionally render statsLine only between items" time="0.074">
+    </testcase>
+    <testcase classname="StatisticsSection Component should apply the correct styles" name="StatisticsSection Component should apply the correct styles" time="0.03">
+    </testcase>
+  </testsuite>
+  <testsuite name="TrustedBy Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.216" tests="1">
+    <testcase classname="TrustedBy Component renders the TrustedBy with the correct text" name="TrustedBy Component renders the TrustedBy with the correct text" time="0.099">
+    </testcase>
+  </testsuite>
+  <testsuite name="CarouselSection Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="10.425" tests="4">
+    <testcase classname="CarouselSection Component renders the CarouselSection with the correct initial item" name="CarouselSection Component renders the CarouselSection with the correct initial item" time="0.125">
+    </testcase>
+    <testcase classname="CarouselSection Component navigates to the next item when the next button is clicked" name="CarouselSection Component navigates to the next item when the next button is clicked" time="0.035">
+    </testcase>
+    <testcase classname="CarouselSection Component navigates to the previous item when the prev button is clicked" name="CarouselSection Component navigates to the previous item when the prev button is clicked" time="0.023">
+    </testcase>
+    <testcase classname="CarouselSection Component navigates to the correct item when a dot is clicked" name="CarouselSection Component navigates to the correct item when a dot is clicked" time="0.092">
+    </testcase>
+  </testsuite>
+  <testsuite name="Footer Component" errors="0" failures="0" skipped="0" timestamp="2024-09-01T19:36:47" time="12.358" tests="3">
+    <testcase classname="Footer Component renders the Footer with the correct text" name="Footer Component renders the Footer with the correct text" time="0.081">
+    </testcase>
+    <testcase classname="Footer Component renders social links with correct href attributes" name="Footer Component renders social links with correct href attributes" time="0.013">
+    </testcase>
+    <testcase classname="Footer Component social links open in a new tab" name="Footer Component social links open in a new tab" time="0.013">
+    </testcase>
+  </testsuite>
+</testsuites>
